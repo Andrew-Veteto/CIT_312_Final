@@ -3,7 +3,6 @@ const script = document.createElement("script");
 script.src = "./obj.js";
 document.head.append(script);
 
-
 //THIS IS FOR API, BUT IS TOO SLOW
 //Holds data Local
 // let states = [];
